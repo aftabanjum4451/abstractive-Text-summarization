@@ -5,8 +5,8 @@
  - Load the data
  - Pre-process and clean the data
  - Designed the model
-   - T5
-   - Bart 
+   - **T5**
+   - **Bart**
  - Evaluate the model
 
 ## Dataset
